@@ -16,9 +16,9 @@ pip install pyperclip
 ```
 ## How to Use
 
-1. Run the pass_gen.py file 
+1. Run the **pass_gen.py** file 
 
-2. Click on generate button
+2. Click on **Generate** button
 
 3. Your password is already in the clipboard 
 
