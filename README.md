@@ -11,7 +11,7 @@ pip install tk
 ```
 
 2. pyperclip 
-'''shell
+```shell
 pip install pyperclip
 ```
 ## How to Use
