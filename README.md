@@ -5,9 +5,15 @@ This repository contains a python program that generates a secure password for y
 
 ## Requirements
 
-1. tkinter (pip install tk)
-2. pyperclip (pip install pyperclip)
+1. tkinter 
+```shell
+pip install tk
+```
 
+2. pyperclip 
+'''shell
+pip install pyperclip
+```
 ## How to Use
 
 1. Run the pass_gen.py file 
